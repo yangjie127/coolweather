@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value = "cool_weather"/>
+    <version value= "1"/>
+
+    <list>
+
+        <mapping calss ="com.yang.user.coolweather.db.Province"/>
+        <mapping calss ="com.yang.user.coolweather.db.City"/>
+        <mapping calss ="com.yang.user.coolweather.db.County"/>
+
+    </list>
+</litepal>
